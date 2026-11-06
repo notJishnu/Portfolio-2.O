@@ -1,0 +1,7 @@
+node_modules
+dist
+.taste-skill
+*.local
+.next
+.out
+*.tsbuildinfo
